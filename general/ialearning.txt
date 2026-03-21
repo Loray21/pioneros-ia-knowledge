@@ -1,0 +1,9 @@
+cosas que aprendi de ia
+
+
+
+- arquitecturas (router y supervisors la otra)
+
+- langchain y langgraph para construir agentes
+
+- usar salida tipadas y estrcucturadas.
